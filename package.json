@@ -1,0 +1,20 @@
+{
+  "name": "boilerbot-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "cli-table3": "^0.6.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1"
+  }
+}
